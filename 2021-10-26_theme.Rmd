@@ -1,0 +1,21 @@
+---
+title: "The Start of Winter and the End of COVID"
+author: "Ken"
+date: "25/10/2021"
+output: html_document
+---
+
+I wrote this yesterday. It was cold and rainy, and I took advantage of not having to go anywhere by working from home. I still feel more comfortable staying home when 
+I don't have to go anywhere, which means I feel *less* comfortable with the news that indoor venues that require vaccination will no longer have any capacity limits. 
+This still seems too soon. We still have people getting getting COVID, and children aged under 12 can still not be vaccinated (and there have been outbreaks in schools). 
+Maybe I worry too much, and I and everyone else will have to get used to COVID being in the background for some time to come, but to live our lives anyway. 
+My university plans to reopen with full capacity in 
+January, with in-person exams and everything, and I don't know how I feel about that either, but everyone will be vaccinated, and there is nothing I can do about it anyway,
+so I just have to accept that this is how it will be now.
+
+On a happier note, that would seem to mean that reopening of City facilities, at least to those who can prove themselves to be vaccinated, may not be very far away. 
+How do you feel about the possibility of a return to in-person Toastmaster meetings? Are you excited? Scared? A mixture of both? I think it will take us some time
+to get used to the idea of an actual audience again. And we will have to get used to setting up the room again, and name tents, and printing the agendas, and all of that.
+
+While winter may not be something we are looking forward to, the prospect of other parts of our lives being something like they were before, that *is* something to look
+forward to, in among all our anxieties about the old being new again.
